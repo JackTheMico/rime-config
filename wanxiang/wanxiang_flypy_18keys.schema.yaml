@@ -33,7 +33,7 @@ engine:
 speller:
   # auto_select: true
   # auto_select_pattern: ^@(\w|@)+|^\w{3}\w+
-  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA1234567890`/@
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA67890`/@
   initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA/@
   delimiter: " '"
   visual_delimiter: " "

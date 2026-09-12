@@ -10,7 +10,7 @@ schema_list:
   - schema: wanxiang_flypy
   - schema: wanxiang_flypy_18keys
   - schema: wanxiang_flypy_14keys
-  - schema: wanxiang_l17keys_flypy
+  - schema: wanxiang_l17keys
   - schema: wanxiang_t9
   - schema: wanxiang_english
 

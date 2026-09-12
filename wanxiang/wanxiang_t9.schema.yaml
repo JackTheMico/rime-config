@@ -12,9 +12,6 @@ schema:
 
 __include: shared_config.yaml:/shared_config
 
-custom_phrase:
-  __include: shared_config.yaml:/custom_phrase
-
 super_comment:
   __include: shared_config.yaml:/super_comment
 
