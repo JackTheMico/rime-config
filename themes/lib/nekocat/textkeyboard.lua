@@ -31,7 +31,9 @@ local tk = {
   english               = merge(safe_require("nekocat.layouts.47keys"),
     keyboard { name = "英文布局", ascii_mode = true, rows = { [5] = { keys = { [6] = key { click = "KeyboardDefault" } } } } }),
   t9_number             = merge(safe_require("nekocat.layouts.number"),
-    keyboard { ascii_mode = true })
+    keyboard { ascii_mode = true }),
+  ["9jianhu"]           = safe_require("nekocat.layouts.9jianhu"),
+  ["tiger"]             = safe_require("nekocat.layouts.47keys")
 }
 
 -- 李氏三拼 3x5b1 动态第二码: 15 个键盘由工厂模块数据驱动生成

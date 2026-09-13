@@ -93,6 +93,8 @@ local pk = {
   Schemayoemin       = { label = "\u{F847}", command = "set_schema", option = "wanxiang_yoemin" },       -- 鸢鸣万象
   Schemalssp         = { label = "\u{F847}", command = "set_schema", option = "triple_pinyin_lssp" },    -- 李氏三拼
   Schema9keys        = { label = "\u{F849}", command = "set_schema", option = "wanxiang_t9" },           -- 万象 9 键
+  SchemaTiger        = { label = "26", command = "set_schema", option = "tiger" },                        -- 万象虎
+  Schema9jianhu      = { label = "9键", command = "set_schema", option = "9jianhu" },                      -- 九键虎
 
   -- 窗口切换
   WindowMenu         = { label = "ic@tune-variant", command = "menu_keyboard" },              -- 方案开关页面
