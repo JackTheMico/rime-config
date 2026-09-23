@@ -36,7 +36,7 @@ return function(opts)
       })),
       key(merge(S.comma, key {
         label = { { text = "，" } },
-        click = ",",
+        click = "，",
         long_click = "[",
         swipe_up = "[",
         hint = { { text = "ic@palette-swatch-outline" } },
@@ -56,7 +56,7 @@ return function(opts)
       })),
       key(merge(S.period, key {
         label = { { text = "。" } },
-        click = ".",
+        click = "。",
         long_click = "]",
         swipe_up = "]",
         hint = { { text = "ic@list-box-outline" } },
